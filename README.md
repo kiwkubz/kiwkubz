@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kiw</h1>
-<h3 align="center">I love to learn and I like learn about web developer!</h3>
+<h3 align="center">I love to learn and I like to learn about web developer!</h3>
 
 <img align="right" width="400" src="http://clipart-library.com/images/8ixKaobip.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiwkubz&label=Profile%20views&color=0e75b6&style=flat" alt="kiwkubz" /> </p>
